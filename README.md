@@ -20,7 +20,7 @@ I'm a Computer Science and Engineering (CSE) student at AILM. I enjoy coding, le
 ## 📫 Connect with Me
 - GitHub: [Mohammed Arqam Ahmed](https://github.com/mohammedarqamahmed)
 - LinkedIn: [mohammed arqam](https://linkedin.com/in/mohammedarqam)
-- Gmail: [arqam911204@gmail.com]
+- Gmail: arqam911204@gmail.com
 
 Thanks for visiting my profile! 😊
 
