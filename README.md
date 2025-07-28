@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello! I'm Mohammed Arqam
 
-<!--
-**mohammedarqamahmed/mohammedarqamahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Engineering (CSE) student at AILM. I enjoy coding, learning new technologies, and building real-world projects.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Programming: Python, C
+- Web Development: HTML, CSS, JavaScript, Flask
+- Machine Learning: Scikit-learn, Pandas, NumPy
+- Tools: Git, VS Code, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Twitter Bot Detection using Machine Learning
+- Smart Parking System (Full Stack + Android)
+- More coming soon...
+
+## 📚 Currently Learning
+- React.js and advanced web development
+- Deep learning basics
+
+## 📫 Connect with Me
+- GitHub: [Mohammed Arqam Ahmed](https://github.com/mohammedarqamahmed)
+- LinkedIn: [mohammed arqam](https://linkedin.com/in/mohammedarqam)
+- Gmail: [arqam911204@gmail.com]
+
+Thanks for visiting my profile! 😊
+
