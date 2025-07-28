@@ -1,26 +1,44 @@
-# 👋 Hello! I'm Mohammed Arqam
+# 👋 Hi, I'm Mohammed Arqam Ahmed
 
-I'm a Computer Science and Engineering (CSE) student at AILM. I enjoy coding, learning new technologies, and building real-world projects.
+🎓 I'm a CSE student at AILM who enjoys coding and learning.  
+💻 I work with Python, Web Development, and Machine Learning.  
+🌱 Skilled in HTML, CSS, JavaScript, Flask, and building smart applications.
 
-## 🚀 Skills
-- Programming: Python, C
-- Web Development: HTML, CSS, JavaScript, Flask
-- Machine Learning: Scikit-learn, Pandas, NumPy
-- Tools: Git, VS Code, Jupyter Notebook
+---
 
-## 📌 Projects
-- Twitter Bot Detection using Machine Learning
-- Smart Parking System (Full Stack + Android)
-- More coming soon...
+### 🛠️ Tech Stack
 
-## 📚 Currently Learning
-- React.js and advanced web development
-- Deep learning basics
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** Flask, Tkinter, Scikit-learn, Pandas  
+- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook
 
-## 📫 Connect with Me
-- GitHub: [Mohammed Arqam Ahmed](https://github.com/mohammedarqamahmed)
-- LinkedIn: [mohammed arqam](https://linkedin.com/in/mohammedarqam)
-- Gmail: arqam911204@gmail.com
+---
 
-Thanks for visiting my profile! 😊
+### 🚀 Projects
+
+#### 🤖 Detecting Twitter Bots  
+Machine learning project to detect malicious Twitter bots using behavioral patterns and metadata. Built with Python, Tkinter GUI, and Scikit-learn.
+
+#### 🅿️ Smart Parking System  
+A full-stack and Android-based smart parking solution to automate and optimize urban parking using real-time data and efficient space management.
+
+---
+
+### 📊 GitHub Stats
+
+![Arqam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedarqamah&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedarqamah&layout=compact&theme=radical)
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/mohammedarqamah/mohammedarqamah/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/mohammedahmed)   
+- 📧 mohammed.arqam911204@gmail.com
 
