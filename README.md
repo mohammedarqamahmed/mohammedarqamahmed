@@ -31,9 +31,26 @@ A full-stack and Android-based smart parking solution to automate and optimize u
 
 ---
 
-### 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/mohammedarqamah/mohammedarqamah/blob/output/github-contribution-grid-snake.svg)
+
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Tkinter](https://img.shields.io/badge/Tkinter-%23blue.svg?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+
+## 🔥 GitHub Contribution Graph
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohammedarqamahmed&theme=react-dark&area=true&hide_border=true" />
+
 
 ---
 
@@ -41,4 +58,6 @@ A full-stack and Android-based smart parking solution to automate and optimize u
 
 - 🔗 [LinkedIn](https://linkedin.com/in/mohammedahmed)   
 - 📧 mohammed.arqam911204@gmail.com
+
+_Thanks for visiting my profile! 😊_
 
