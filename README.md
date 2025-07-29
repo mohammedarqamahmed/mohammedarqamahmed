@@ -26,8 +26,8 @@ A full-stack and Android-based smart parking solution to automate and optimize u
 
 ### 📊 GitHub Stats
 
-![Arqam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedarqamah&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedarqamah&layout=compact&theme=radical)
+![Arqam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedarqamahmed&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedarqamahmed&layout=compact&theme=radical)
 
 ---
 
