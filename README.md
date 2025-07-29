@@ -49,7 +49,8 @@ A full-stack and Android-based smart parking solution to automate and optimize u
 
 ## 🔥 GitHub Contribution Graph
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohammedarqamahmed&theme=react-dark&area=true&hide_border=true" />
+<img src="https://github-activity-graph.vercel.app/graph?username=mohammedarqamahmed&theme=react-dark&area=true&hide_border=true" />
+
 
 
 ---
