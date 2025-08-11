@@ -5,6 +5,10 @@
 🌱 Skilled in HTML, CSS, JavaScript, Flask, and building smart applications.
 
 ---
+### 🌐 My Portfolio:
+[![Portfolio](https://img.shields.io/badge/🌎%20Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge)](https://mohammed-imad-umar-portfolio.netlify.app/)
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -58,6 +62,7 @@ A full-stack and Android-based smart parking solution to automate and optimize u
 
 - 🔗 [LinkedIn](https://linkedin.com/in/mohammedahmed)   
 - 📧 mohammed.arqam911204@gmail.com
+- 
 
 _Thanks for visiting my profile! 😊_
 
